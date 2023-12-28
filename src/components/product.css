@@ -1,0 +1,22 @@
+#allCARD{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 50px;
+}
+.CardNum{
+    display: flex;
+      justify-content: space-between;
+}
+#CardCont{
+padding :10px;
+margin: 10px;
+width:fit-content;
+border-width: 10px ;
+border-style: solid;
+border-radius: 15px;
+}
+.CardImg{
+    width: 200px;
+    height: 200px;
+}
